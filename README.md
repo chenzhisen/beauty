@@ -1,4 +1,4 @@
-# beauty
+# LTK——Beauty
 
 说明：链克刷靓号linux版，使用nodejs开发
 
